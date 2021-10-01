@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anabeya
-- 👀 I’m interested in helping create new projects
+- 👀 I’m interested in create new projects
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on this new Tech era
 - 📫 How to reach me ...
